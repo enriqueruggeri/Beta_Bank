@@ -28,11 +28,10 @@ Tecnologías Utilizadas
   - RandomForestClassifier de sklearn : importamos la clase RandomForestClassifier
   - accuracy_score de sklearn.metrics : importamos la función accuracy_score de la biblioteca scikit-learn
   - f1_score de sklearn.metrics : importamos la función f1_score de la biblioteca scikit-learn
-    - - roc_auc_score de sklearn.metrics : importamos la función roc_auc_score de la biblioteca scikit-learn
-shuffle de sklearn.utils : importamos la función shuffle de la biblioteca scikit-learn
+  - roc_auc_score de sklearn.metrics : importamos la función roc_auc_score de la biblioteca scikit-learn
+  - shuffle de sklearn.utils : importamos la función shuffle de la biblioteca scikit-learn
 
 Este proyecto nos ha permitido explorar y comprender el proceso de desarrollo de modelos de aprendizaje automático, desde la exploración de datos hasta la evaluación y selección de modelos.
-
 
 
 Habilidades Relacionadas a Ciencia de Datos Desarrolladas
